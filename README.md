@@ -46,3 +46,4 @@ Yes, drop a folder of CapCut exports and process all at once.
 ## License
 
 MIT
+ 
